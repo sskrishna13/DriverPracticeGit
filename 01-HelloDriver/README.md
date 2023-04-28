@@ -8,10 +8,7 @@ Build and Clean
 	. Build example .ko kernel module
 	  according to the Makefile
 
-
-
 	make
-
 
 	. Clean
 
@@ -40,7 +37,8 @@ Use "dmesg" command to examine the kernel
 ring buffer
 
 
-STEPS
+Steps
+
 	1. make
 	2. insmod example.ko
 	3. dmesg
